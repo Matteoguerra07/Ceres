@@ -2,7 +2,6 @@
   "name": "ceres-vscode",
   "displayName": "Ceres",
   "description": "Dark themes for VS Code inspired by EliverLara's GTK Juno and Squared themes: Ocean, Mirage, Slate and Squared.",
-  "version": "1.0.0",
   "publisher": "Matteoguerra07",
   "license": "MIT",
   "engines": {
