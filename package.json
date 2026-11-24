@@ -1,0 +1,46 @@
+{
+  "name": "ceres-vscode",
+  "displayName": "Ceres",
+  "description": "Temi scuri per VS Code ispirati ai temi GTK Juno e Squared di EliverLara: Ocean, Mirage, Slate e Squared.",
+  "version": "0.3.1",
+  "publisher": "matteo",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark",
+    "juno",
+    "ocean",
+    "mirage",
+    "squared"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Ceres -- Ocean",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ceres-ocean-color-theme.json"
+      },
+      {
+        "label": "Ceres -- Mirage",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ceres-mirage-color-theme.json"
+      },
+      {
+        "label": "Ceres -- Slate",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ceres-slate-color-theme.json"
+      },
+      {
+        "label": "Ceres -- Squared",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ceres-squared-color-theme.json"
+      }
+    ]
+  }
+}
