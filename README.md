@@ -25,7 +25,7 @@ Once installed, you can find them in the theme selector (`Ctrl+K Ctrl+T`):
 4. Press `Ctrl+K Ctrl+T` and choose a Ceres variant. Or via the terminal:
 
 ```bash
-code --install-extension ceres-vscode-0.3.1.vsix
+code --install-extension ceres-vscode-0.1.0.vsix
 ```
 
 ## Colors
