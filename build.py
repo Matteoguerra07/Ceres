@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Genera i temi Ceres per VS Code da una palette per variante."""
+
 import json
 from pathlib import Path
 

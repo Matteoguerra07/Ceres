@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Verifica JSON validi e contrasto WCAG dei colori chiave per ogni variante."""
+
 import json, sys
 from pathlib import Path
 from build import VARIANTS, SYN, TRAFFIC
